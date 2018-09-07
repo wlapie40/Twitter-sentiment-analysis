@@ -10,7 +10,12 @@ atoken=""
 asecret=""
 
 class SaveErrortoFile():
+"""in progress"""
     pass
+    
+class DbConnection():
+"""in progress"""
+   pass
 
 class MyStreamListener(StreamListener):
 
