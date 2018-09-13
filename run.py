@@ -11,7 +11,12 @@ atoken=""
 asecret=""
 
 class SaveErrortoFile():
+"""in progress"""
     pass
+    
+class DbConnection():
+"""in progress"""
+   pass
 
 class MyStreamListener(StreamListener):
     def __init__(self, track):
